@@ -1,0 +1,15 @@
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.csproj.AssemblyReference.cache
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.AssemblyInfoInputs.cache
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.AssemblyInfo.cs
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.csproj.CoreCompileInputs.cache
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\bin\Debug\net6.0\Explover.exe
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\bin\Debug\net6.0\Explover.deps.json
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\bin\Debug\net6.0\Explover.runtimeconfig.json
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\bin\Debug\net6.0\Explover.dll
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\bin\Debug\net6.0\Explover.pdb
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.dll
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\refint\Explover.dll
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.pdb
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\Explover.genruntimeconfig.cache
+C:\Users\иир\Desktop\учеба\Explover\Explover 001\obj\Debug\net6.0\ref\Explover.dll

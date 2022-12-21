@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\иир\\Desktop\\учеба\\Explover\\Explover.csproj",
+      "projectUniqueName": "C:\\Users\\иир\\Desktop\\учеба\\Explover\\Explover 001\\Explover.csproj",
       "projectName": "Explover",
-      "projectPath": "C:\\Users\\иир\\Desktop\\учеба\\Explover\\Explover.csproj",
+      "projectPath": "C:\\Users\\иир\\Desktop\\учеба\\Explover\\Explover 001\\Explover.csproj",
       "packagesPath": "C:\\Users\\иир\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\иир\\Desktop\\учеба\\Explover\\obj\\",
+      "outputPath": "C:\\Users\\иир\\Desktop\\учеба\\Explover\\Explover 001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\иир\\AppData\\Roaming\\NuGet\\NuGet.Config"
